@@ -5,7 +5,8 @@ class App extends React.Component {
     return (
       <div>
         <h1>Lets go to Mars!</h1>
-        <h2>Lets do this with Starship</h2>
+        <h2>We are going to use Starship!</h2>
+        <h3>Oke, lets do it!</h3>
       </div>
     );
   }
